@@ -26,7 +26,7 @@ script/
 
 ## ⚙️ Настройка
 
-Создай файл `.env` рядом со скриптами:
+Нужно создать файл `.env` рядом со скриптами:
 
 BOT_TOKEN=your_telegram_bot_token
 CHAT_ID=your_chat_id
