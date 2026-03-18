@@ -18,7 +18,7 @@
 script/
 ├── restart.sh
 ├── healthcheck.sh
-├── .env          # локальный (НЕ коммитить)
+├── .env          # локальный (НЕ коммитить добавить в гитигнор)
 ├── .env.example
 └── README.md
 
@@ -54,7 +54,7 @@ CRON_TZ=Europe/Moscow
 
 ---
 
-# 🇬🇧 Description
+# EN Description
 
 A set of bash scripts for:
 - restarting backend services
